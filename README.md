@@ -27,3 +27,5 @@ npm start
 ## Disclaimer
 
 Use at your own risk; not a supported MongoDB product
+
+https://dev.to/franciscomendes10866/setup-mongodb-with-mongoose-and-express-4c58
